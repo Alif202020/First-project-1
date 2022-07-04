@@ -1,5 +1,6 @@
 body{
     font-family: 'Merriweather', serif;
+    margin: 0%;
 }
 h1{
     font-size: 40px;
@@ -9,6 +10,9 @@ h1{
 }
 section{
     display: flex;
+}
+.first-heder{
+    margin: 10px 60px;
 }
 img{
     height: 500px;
@@ -20,4 +24,8 @@ img{
     padding: 10px 40px;
     border-radius: 10px;
 
+}
+.section1{
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
 }
