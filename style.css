@@ -7,18 +7,8 @@ h1{
 .name{
     color: orange;
 }
-.first-heder{
-    height: auto;
-    width: 50%;
-    position: relative;
-}
-.second-heder{
-    width: 40%;
-    height: auto;
-    float: right;
-    position: absolute;
-    top: 0%;
-    right: 0%;
+section{
+    display: flex;
 }
 img{
     height: 500px;
