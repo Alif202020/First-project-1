@@ -8,7 +8,7 @@ h1{
 .name{
     color: orange;
 }
-section{
+.none-flex{
     display: flex;
 }
 .first-heder{
@@ -33,4 +33,17 @@ img{
     background-image: url(img/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.section3{
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: 0px 272px;
+}
+.exprens{
+    width: 40%;
+    box-shadow: 10px 10px 40px green;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
 }
