@@ -4,3 +4,10 @@ body{
 h1{
     font-size: 40px;
 }
+.name{
+    color: orange;
+}
+.first-heder{
+    height: auto;
+    width: 60%;
+}
