@@ -47,3 +47,18 @@ img{
     padding: 20px;
     border-radius: 10px;
 }
+#as{
+    border-left: 10px solid blue;
+    border-right: 10px solid rgb(0, 255, 42);
+    border-top: 10px solid rgb(255, 166, 0);
+    border-bottom: 10px solid rgb(255, 0, 43);
+}
+#df{
+    border-left: 10px solid orangered;
+    border-right: 10px solid rgb(30, 255, 0);
+    border-top: 10px solid rgb(17, 0, 255);
+    border-bottom: 10px solid rgb(255, 0, 13);
+}
+footer{
+    text-align: center;
+}
